@@ -1,5 +1,3 @@
-# THIS IS A SCRIPT/TOOLS FOR CRACKING AN FACEBOOK ACCOUNT
-
 <img title="email_crack" src="https://img.shields.io/badge/CODENAME%20-email_crack-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> <img title="email_crack" src="https://img.shields.io/badge/VERSION%20-2.0.1-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> 
 
 - Download the Termux Apk here so you don't get errors <a href="https://f-droid.org/repo/com.termux_118.apk">Click here</a>
